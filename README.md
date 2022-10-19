@@ -1,6 +1,6 @@
-# vue-adina-start
+# tmdb-search-movies-vue3
 
-This template should help get you started developing with Vue 3 in Vite.
+Search Movies using the TMDB API.
 
 ## Recommended IDE Setup
 
@@ -33,5 +33,5 @@ npm run build
 ```sh
 npm run lint
 ```
-# tmdb-search-movies-vue3
-# tmdb-search-movies-vue3
+
+
